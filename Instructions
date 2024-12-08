@@ -1,1 +1,6 @@
-Extract the zip file and save then in proteus library
+1. Extract the zip file and save then in proteus library
+2. In flame sensor componrt, Select FlameSensorTEP.HEX in the program file.(give the location)
+3. Put the code in arduino ide and compile, before compiling tick mark on verbose output in file/preference.
+4. After compilation, copy the location which is in .HEX 
+5. In SIMULINO UNO, paste this .Hex location in program file.
+6. Set buzzer voltage at 5v
